@@ -1,7 +1,7 @@
 # AWS S3 Bucket Policy ReadMe
 
 ## Description
-This document provides details about the AWS IAM policy for accessing **single ** S3 bucket. The policy allows listing the bucket contents and performing read/write operations on objects within the bucket.
+This document provides details about the AWS IAM policy for accessing **single** S3 bucket. The policy allows listing the bucket contents and performing read/write operations on objects within the bucket.
 
 ## Policy Details
 ```json
